@@ -28,6 +28,6 @@ Languages and tools
 <a href="https://github.com/Lofibree">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lofibree&show_icons=true&hide=contribs,prs&theme=react" />
 </a>
-<a href="https://github.com/Lofibree/LearningReact2">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lofibree&layout=compact&theme=react" />
 </a>
