@@ -19,12 +19,15 @@ Languages and tools
 
 # Follow Me 
 
-![Vkontakte](https://img.shields.io/badge/-VK-0077FF?style=flat-square&logo=vk)
-![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram)
+[![Vkontakte](https://img.shields.io/badge/-VK-0077FF?style=flat-square&logo=vk)](https://vk.com/lofibree)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram)](https://www.instagram.com/brytkovsergei)
 
 
 ## Stats 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lofibree&show_icons=true&hide=contribs,prs&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lofibree&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Lofibree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lofibree&show_icons=true&hide=contribs,prs&theme=react" />
+</a>
+<a href="https://github.com/Lofibree/LearningReact2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lofibree&layout=compact&theme=react" />
+</a>
