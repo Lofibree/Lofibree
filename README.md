@@ -16,6 +16,15 @@ Languages and tools
 ![ReactRouter](https://img.shields.io/badge/-React&nbsp;Router-1D2137?style=flat-square&logo=reactrouter)
 ![Three.js](https://img.shields.io/badge/-Three.js-1D2137?style=flat-square&logo=threedotjs)
 
+# Views 
+
+<img src="https://komarev.com/ghpvc/?username=Lofibree&style=flat-square&color=blue" alt=""/>
+
+# sfssdfs 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 
 # Follow Me 
 
