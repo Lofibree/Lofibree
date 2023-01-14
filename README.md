@@ -12,6 +12,8 @@ Languages and tools
   <img src="https://img.shields.io/badge/-React-3D5787?style=flat-square&logo=react" height="35"/>
   <img src="https://img.shields.io/badge/-Redux Toolkit-764ABC?style=flat-square&logo=redux" height="35"/>
   <img src="https://img.shields.io/badge/-MongoDB-195678?style=flat-square&logo=mongodb" height="35"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-194078?style=flat-square&logo=postgresql" height="35"/>
+  <img src="https://img.shields.io/badge/-Sequelize-164278?style=flat-square&logo=sequelize" height="35"/>
   <img src="https://img.shields.io/badge/-Node.js-345344?style=flat-square&logo=nodedotjs" height="35"/>
   <img src="https://img.shields.io/badge/-Express-454544?style=flat-square&logo=express" height="35"/>
   <img src="https://img.shields.io/badge/-Nodemon-098078?style=flat-square&logo=nodemon" height="35"/>
